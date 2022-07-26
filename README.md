@@ -4,17 +4,17 @@ This document takes us through the journey of setting up the first Python CI/CD 
 
 ## Table of Contents
 
-- [Introduction - "Imaginary obstacles are insurmountable. Real ones aren't!"]:muscle:
-- [Step 1 : Choosing the right build tool]:hammer_and_wrench:
-- [Step 2 : Deciding the artifact structure and designig the CI in Gitlab around it]:basket:
-- [Step 3 : Encorporating custom dependency management for Unit Testing in CI]:test_tube:
-- [Step 4 : Pushing artifacts into the Nexus and Gitlab PyPI registry]:file_folder:
-- [Step 5 : Versioning Convention and Practises for Snapshot and Release Builds]:pushpin:
-- [Step 6 : Centralized Onboarding of CI for SBC]:closed_lock_with_key:
-- [Step 7 : Integrating SonarQube analysis for code coverage and quality analysis]:monocle_face:
-- [Step 8 : Wrapping up by developing lightweight puppet modules to deploy the artifacts to the Azure Databricks workspace]:rocket:
-- [Step 9 : Upcoming future improvements that we have planned]:calendar:
-- [Conclusion - "Mindset is everything!"]:sunglasses:
+- :muscle: Introduction - "Imaginary obstacles are insurmountable. Real ones aren't!"
+- :hammer_and_wrench: Step 1 : Choosing the right build tool
+- :basket: Step 2 : Deciding the artifact structure and designig the CI in Gitlab around it
+- :test_tube: Step 3 : Encorporating custom dependency management for Unit Testing in CI
+- :file_folder: Step 4 : Pushing artifacts into the Nexus and Gitlab PyPI registry
+- :pushpin: Step 5 : Versioning Convention and Practises for Snapshot and Release Builds
+- :closed_lock_with_key: Step 6 : Centralized Onboarding of CI for SBC
+- :monocle_face: Step 7 : Integrating SonarQube analysis for code coverage and quality analysis
+- :rocket: Step 8 : Wrapping up by developing lightweight puppet modules to deploy the artifacts to the Azure Databricks workspace
+- :calendar: Step 9 : Upcoming future improvements that we have planned
+- :sunglasses: Conclusion - "Mindset is everything!"
 
 ## Introduction
 
