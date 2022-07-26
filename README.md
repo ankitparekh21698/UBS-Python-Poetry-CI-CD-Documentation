@@ -1,4 +1,4 @@
-# UBS-Python-Poetry-CI-CD-Documentation
+# IB Market Regulation's First Python CI/CD Pipeline
 
 This document takes us through the journey of setting up the first Python CI/CD framework within Market Regulations. It describes the thought-process that went into this endeavour, the challenges we faced, and also contains all the relevant technical details and exmaples for all you DevOps geeks out there. 
 
